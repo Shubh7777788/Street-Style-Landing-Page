@@ -1,9 +1,9 @@
 ## Project Title - Street Style Landing Page
 
-After going through  basics of html and css.
+After going through the basics of HTML and CSS.
 It takes me around two to three hours to complete this project.
 
-### Concepts learnt while making project:
+### Concepts learned while making the project:
 
 1. z-index : ( z-index ) is a CSS property that defines the order of overlapping HTML elements.
 
